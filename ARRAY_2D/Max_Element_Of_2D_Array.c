@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+#include<limits.h>
 
     // PRINT MAXIMUM ELEMENT OF AN 2D ARRAY
     // PRINT ITS INDICES
